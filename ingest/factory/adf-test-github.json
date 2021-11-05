@@ -1,0 +1,9 @@
+{
+	"name": "adf-test-github",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "851a5c31-6692-43fe-8f5b-d42aa225767d",
+		"tenantId": "ea1f9c15-7f32-4dfa-b662-cacea1f61d0f"
+	}
+}
